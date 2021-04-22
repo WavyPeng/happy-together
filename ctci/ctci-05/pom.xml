@@ -3,21 +3,13 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
-        <artifactId>solutions</artifactId>
+        <artifactId>ctci</artifactId>
         <groupId>com.wavy.victory</groupId>
         <version>1.0-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>ctci</artifactId>
-    <packaging>pom</packaging>
-    <modules>
-        <module>ctci-01</module>
-        <module>ctci-02</module>
-        <module>ctci-03</module>
-        <module>ctci-04</module>
-        <module>ctci-05</module>
-    </modules>
+    <artifactId>ctci-05</artifactId>
 
 
 </project>
