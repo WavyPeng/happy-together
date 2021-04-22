@@ -4,7 +4,7 @@ package com.wavy.solution;
  * @author pengweiwei
  * @date 2021/4/21 2:24 PM
  */
-public class solution {
+public class Solution {
     /**
      * 思路一：
      * 1.如果两个字符串长度差大于1，则一次修改无法满足
