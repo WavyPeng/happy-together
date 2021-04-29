@@ -7,17 +7,28 @@ package com.wavy.solution;
 public class Solution {
     /**
      * 思路一：
+     * 利用数组去标记出现0的行和列，然后根据标记数组遍历将所有出现0的行和列元素置0
+     * 时间复杂度：O(mn)
+     * 空间复杂度：O(m+n)
      *
      * @param matrix
      */
     public static int[][] setZeroes(int[][] matrix) {
         int M = matrix.length;
         int N = matrix[0].length;
-        int[][] tempMatrix = new int[M][N];
-        for (int row = 0; row < M; row++) {
-            for (int col = 0; col < N; col++) {
-                if (matrix[row][col] != 0) {
-                    tempMatrix[row][col] = matrix[row][col];
+        boolean[] row = new boolean[M];
+        boolean[] col = new boolean[N];
+        for (int i = 0; i < M; i++) {
+            for (int j = 0; j < N; j++) {
+                if (matrix[i][j] == 0) {
+                    row[i] = col[j] = true;
+                }
+            }
+        }
+        for (int i = 0; i < M; i++) {
+            for (int j = 0; j < N; j++) {
+                if (row[i] || col[j]) {
+                    matrix[i][j] = 0;
                 }
             }
         }
