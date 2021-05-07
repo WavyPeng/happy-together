@@ -58,11 +58,28 @@ public class Solution {
         ListNode p = head;
         ListNode q = head;
         // 快慢指针找到中点
-        while (null != p && null != q.next) {
+        while (null != q && null != q.next) {
             p = p.next;
             q = q.next.next;
         }
         // 翻转后半段链表
-
+        ListNode dummy = null;
+        while (null != p) {
+            ListNode tmp = p.next;
+            p.next = dummy;
+            dummy = p;
+            p = tmp;
+        }
+        // 回文比较
+        ListNode p1 = head;
+        ListNode p2 = dummy;
+        while (null != p1 && null != p2) {
+            if (p1.val != p2.val) {
+                return false;
+            }
+            p1 = p1.next;
+            p2 = p2.next;
+        }
+        return true;
     }
 }
