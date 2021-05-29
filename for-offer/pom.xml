@@ -12,13 +12,7 @@
     <artifactId>for-offer</artifactId>
     <packaging>pom</packaging>
     <modules>
-        <module>problem-01</module>
-        <module>problem-02</module>
-        <module>problem-03</module>
-        <module>problem-04</module>
-        <module>problem-05</module>
-        <module>problem-06</module>
-        <module>problem-07</module>
+        <module>offer-solutions</module>
     </modules>
 
 
