@@ -14,3 +14,4 @@
 0 <= s 的长度 <= 10000
 ```
 
+[题解](https://github.com/WavyPeng/happy-together/blob/main/for-offer/offer-solutions/src/main/java/com/offer/solution/Solution05.java)
