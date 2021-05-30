@@ -19,3 +19,5 @@
 ```
 字符串长度在[0, 50000]范围内。
 ```
+
+[题解](https://github.com/WavyPeng/happy-together/blob/main/ctci/p01/src/main/java/com/ctci/solution/p01/Solution06.java)
