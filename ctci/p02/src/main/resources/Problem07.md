@@ -31,3 +31,5 @@
 3.可假定整个链表结构中没有循环。
 4.程序尽量满足 O(n) 时间复杂度，且仅用 O(1) 内存。
 ```
+
+[题解](https://github.com/WavyPeng/happy-together/blob/main/ctci/p02/src/main/java/com/ctci/solution/p02/Solution07.java)
