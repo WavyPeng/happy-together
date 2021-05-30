@@ -12,3 +12,5 @@
 ```
 给定的 k 保证是有效的。
 ```
+
+[题解](https://github.com/WavyPeng/happy-together/blob/main/ctci/p02/src/main/java/com/ctci/solution/p02/Solution02.java)
