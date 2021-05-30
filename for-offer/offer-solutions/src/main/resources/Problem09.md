@@ -23,3 +23,5 @@
 ① 1 <= values <= 10000
 ② 最多会对 appendTail、deleteHead 进行 10000 次调用
 ```
+
+[题解](https://github.com/WavyPeng/happy-together/blob/main/for-offer/offer-solutions/src/main/java/com/offer/solution/CQueue.java)
