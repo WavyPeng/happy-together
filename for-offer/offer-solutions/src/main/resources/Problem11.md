@@ -13,3 +13,5 @@
 输入：[2,2,2,0,1]
 输出：0
 ```
+
+[题解](https://github.com/WavyPeng/happy-together/blob/main/for-offer/offer-solutions/src/main/java/com/offer/solution/Solution11.java)
