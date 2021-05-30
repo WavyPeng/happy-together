@@ -13,3 +13,5 @@
 输入： 1->2->2->1
 输出： true
 ```
+
+[题解](https://github.com/WavyPeng/happy-together/blob/main/ctci/p02/src/main/java/com/ctci/solution/p02/Solution06.java)
