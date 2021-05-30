@@ -36,3 +36,4 @@
 ### 算法
 - *字符串*
 - [将所有数字用字符替换](https://github.com/WavyPeng/happy-together/blob/main/algorithm/serial-string/src/main/resources/%E5%B0%86%E6%89%80%E6%9C%89%E6%95%B0%E5%AD%97%E7%94%A8%E5%AD%97%E7%AC%A6%E6%9B%BF%E6%8D%A2.md)
+- [分割平衡字符串](https://github.com/WavyPeng/happy-together/blob/main/algorithm/serial-string/src/main/resources/%E5%88%86%E5%89%B2%E5%B9%B3%E8%A1%A1%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
