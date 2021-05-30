@@ -24,3 +24,5 @@
 
 0 <= m <= 1000
 ```
+
+[题解](https://github.com/WavyPeng/happy-together/blob/main/for-offer/offer-solutions/src/main/java/com/offer/solution/Solution04.java)
