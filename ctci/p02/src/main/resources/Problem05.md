@@ -11,3 +11,5 @@
 输入：(7 -> 1 -> 6) + (5 -> 9 -> 2)，即617 + 295
 输出：2 -> 1 -> 9，即912
 ```
+
+[题解](https://github.com/WavyPeng/happy-together/blob/main/ctci/p02/src/main/java/com/ctci/solution/p02/Solution05.java)
