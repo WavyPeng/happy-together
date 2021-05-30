@@ -18,3 +18,5 @@ URL化。编写一种方法，将字符串中的空格全部替换为%20。假�
 ```
 字符串长度在 [0, 500000] 范围内。
 ```
+
+[题解](https://github.com/WavyPeng/happy-together/blob/main/ctci/p01/src/main/java/com/ctci/solution/p01/Solution03.java)
