@@ -19,3 +19,5 @@
 0 <= len(s1) <= 100
 0 <= len(s2) <= 100
 ```
+
+[题解](https://github.com/WavyPeng/happy-together/blob/main/ctci/p01/src/main/java/com/ctci/solution/p01/Solution02.java)
