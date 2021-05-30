@@ -11,3 +11,5 @@
 输入："tactcoa"
 输出：true（排列有"tacocat"、"atcocta"，等等）
 ```
+
+[题解](https://github.com/WavyPeng/happy-together/blob/main/ctci/p01/src/main/java/com/ctci/solution/p01/Solution04.java)
