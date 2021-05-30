@@ -12,3 +12,5 @@
 ```
 0 <= 链表长度 <= 10000
 ```
+
+[题解](https://github.com/WavyPeng/happy-together/blob/main/for-offer/offer-solutions/src/main/java/com/offer/solution/Solution06.java)
