@@ -32,3 +32,7 @@
 - [回文链表](https://github.com/WavyPeng/happy-together/blob/main/ctci/p02/src/main/resources/Problem06.md)
 - [链表相交](https://github.com/WavyPeng/happy-together/blob/main/ctci/p02/src/main/resources/Problem07.md)
 - [环路检测](https://github.com/WavyPeng/happy-together/blob/main/ctci/p02/src/main/resources/Problem08.md)
+
+### 算法
+- *字符串*
+- [将所有数字用字符替换](https://github.com/WavyPeng/happy-together/blob/main/algorithm/serial-string/src/main/resources/%E5%B0%86%E6%89%80%E6%9C%89%E6%95%B0%E5%AD%97%E7%94%A8%E5%AD%97%E7%AC%A6%E6%9B%BF%E6%8D%A2.md)
