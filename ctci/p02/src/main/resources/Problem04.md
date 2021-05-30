@@ -8,3 +8,4 @@
 输出: 3->1->2->10->5->5->8
 ```
 
+[题解](https://github.com/WavyPeng/happy-together/blob/main/ctci/p02/src/main/java/com/ctci/solution/p02/Solution04.java)
