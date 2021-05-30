@@ -19,3 +19,5 @@
 1.链表长度在[0, 20000]范围内。
 2.链表元素在[0, 20000]范围内。
 ```
+
+[题解](https://github.com/WavyPeng/happy-together/blob/main/ctci/p02/src/main/java/com/ctci/solution/p02/Solution01.java)
