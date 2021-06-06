@@ -11,3 +11,5 @@
 - [交替合并字符串](https://github.com/WavyPeng/happy-together/blob/main/algorithm/serial-string/src/main/resources/%E4%BA%A4%E6%9B%BF%E5%90%88%E5%B9%B6%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
 - [截断句子](https://github.com/WavyPeng/happy-together/blob/main/algorithm/serial-string/src/main/resources/%E6%88%AA%E6%96%AD%E5%8F%A5%E5%AD%90.md)
 - [唯一摩尔斯密码词](https://github.com/WavyPeng/happy-together/blob/main/algorithm/serial-string/src/main/resources/%E5%94%AF%E4%B8%80%E6%91%A9%E5%B0%94%E6%96%AF%E5%AF%86%E7%A0%81%E8%AF%8D.md)
+- [解码字母到整数映射](https://github.com/WavyPeng/happy-together/blob/main/algorithm/serial-string/src/main/resources/%E8%A7%A3%E7%A0%81%E5%AD%97%E6%AF%8D%E5%88%B0%E6%95%B4%E6%95%B0%E6%98%A0%E5%B0%84.md)
+- [反转字符串](https://github.com/WavyPeng/happy-together/blob/main/algorithm/serial-string/src/main/resources/%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
