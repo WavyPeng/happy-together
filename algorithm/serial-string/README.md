@@ -15,3 +15,4 @@
 - [反转字符串](https://github.com/WavyPeng/happy-together/blob/main/algorithm/serial-string/src/main/resources/%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
 - [反转字符串中的单词III](https://github.com/WavyPeng/happy-together/blob/main/algorithm/serial-string/src/main/resources/%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E5%8D%95%E8%AF%8D%20III.md)
 - [生成每种字符都是奇数个的字符串](https://github.com/WavyPeng/happy-together/blob/main/algorithm/serial-string/src/main/resources/%E7%94%9F%E6%88%90%E6%AF%8F%E7%A7%8D%E5%AD%97%E7%AC%A6%E9%83%BD%E6%98%AF%E5%A5%87%E6%95%B0%E4%B8%AA%E7%9A%84%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
+- [特殊等价字符串组](https://github.com/WavyPeng/happy-together/blob/main/algorithm/serial-string/src/main/resources/%E7%89%B9%E6%AE%8A%E7%AD%89%E4%BB%B7%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%BB%84.md)
