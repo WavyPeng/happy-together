@@ -27,3 +27,5 @@
 
 #### 进阶：
 - 你可以优化你的算法到 O(rowIndex) 空间复杂度吗？
+
+[题解](https://github.com/WavyPeng/happy-together/blob/main/algorithm/array/src/main/java/com/array/solution/PascalsTriangleII.java)
