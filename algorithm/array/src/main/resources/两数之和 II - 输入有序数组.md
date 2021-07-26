@@ -31,3 +31,5 @@
 - numbers 按 递增顺序 排列
 - -1000 <= target <= 1000
 - 仅存在一个有效答案
+
+[题解](https://github.com/WavyPeng/happy-together/blob/main/algorithm/array/src/main/java/com/array/solution/TwoSumInputArrayIsSortedII.java)
