@@ -14,3 +14,5 @@
 - [只出现一次的数字](https://github.com/WavyPeng/happy-together/blob/main/algorithm/array/src/main/resources/%E5%8F%AA%E5%87%BA%E7%8E%B0%E4%B8%80%E6%AC%A1%E7%9A%84%E6%95%B0%E5%AD%97.md)
 - [两数之和 II - 输入有序数组](https://github.com/WavyPeng/happy-together/blob/main/algorithm/array/src/main/resources/%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C%20II%20-%20%E8%BE%93%E5%85%A5%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84.md)
 - [多数元素](https://github.com/WavyPeng/happy-together/blob/main/algorithm/array/src/main/resources/%E5%A4%9A%E6%95%B0%E5%85%83%E7%B4%A0.md)
+- [存在重复元素](https://github.com/WavyPeng/happy-together/blob/main/algorithm/array/src/main/resources/%E5%AD%98%E5%9C%A8%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0.md)
+- [存在重复元素 II](https://github.com/WavyPeng/happy-together/blob/main/algorithm/array/src/main/resources/%E5%AD%98%E5%9C%A8%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0%20II.md)
