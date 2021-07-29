@@ -19,3 +19,5 @@
 输入: nums = [1,2,3,1,2,3], k = 2
 输出: false
 ```
+
+[题解](https://github.com/WavyPeng/happy-together/blob/main/algorithm/array/src/main/java/com/array/solution/ContainsDuplicateII.java)
