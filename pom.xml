@@ -12,6 +12,7 @@
         <module>for-offer</module>
         <module>ctci</module>
         <module>algorithm</module>
+        <module>data-structure</module>
     </modules>
 
 
