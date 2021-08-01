@@ -48,15 +48,15 @@ public class LinkedList {
      */
     public void remove(int val) {
         ListNode temp = head;
-        while (null != temp.next && temp.next.val != val) {
-            temp = temp.next;
-        }
-        if (null == temp.next) {
-            System.out.println("没有此元素");
-        } else {
-            ListNode removeNode = temp.next;
-            temp.next = removeNode.next;
-            removeNode.next = null;
+        while (null != temp.next) {
+            if (temp.next.val == val) {
+                ListNode removeNode = temp.next;
+                temp.next = removeNode.next;
+                removeNode.next = null;
+            }
+            if (null != temp.next) {
+                temp = temp.next;
+            }
         }
     }
 
@@ -91,6 +91,12 @@ public class LinkedList {
         linkedList.remove(6);
         linkedList.print();
         linkedList.remove(7);
+        linkedList.print();
+        linkedList.insert(7);
+        linkedList.add(6);
+        linkedList.insert(6);
+        linkedList.print();
+        linkedList.remove(6);
         linkedList.print();
     }
 }
