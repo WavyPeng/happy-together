@@ -12,13 +12,12 @@ public class LinkedList {
     }
 
     public void add(int val) {
-        ListNode node = new ListNode(val);
+        ListNode node = new ListNode(val, null);
         ListNode temp = head;
         while (null != temp.next) {
             temp = temp.next;
         }
         temp.next = node;
-        node.next = null;
     }
 
     public void insert(int val) {
