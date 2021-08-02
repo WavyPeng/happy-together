@@ -39,7 +39,9 @@ public class DoubleLinkedList {
             temp = temp.next;
         }
         node.next = temp.next;
-        temp.next.pre = node;
+        if (null != temp.next) {
+            temp.next.pre = node;
+        }
         temp.next = node;
         node.pre = temp;
     }
@@ -58,8 +60,6 @@ public class DoubleLinkedList {
                 } else {
                     temp.pre.next = temp.next;
                     temp.next.pre = temp.pre;
-                    temp.pre = null;
-                    temp.next = null;
                 }
             }
             temp = temp.next;
@@ -81,9 +81,13 @@ public class DoubleLinkedList {
     public static void main(String[] args) {
         DoubleLinkedList linkedList = new DoubleLinkedList();
         linkedList.add(2);
+        linkedList.print();
         linkedList.insert(1);
+        linkedList.print();
         linkedList.insert(3);
+        linkedList.print();
         linkedList.add(4);
+        linkedList.print();
         linkedList.insert(2);
         linkedList.print();
         linkedList.remove(4);
